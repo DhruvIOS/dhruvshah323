@@ -39,7 +39,7 @@
 
 
 
-<br>
+
 
 ![DhruvIOS's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvshah323&show_icons=true&theme=radical)
 
