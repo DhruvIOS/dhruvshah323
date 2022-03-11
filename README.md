@@ -1,9 +1,13 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://colorlib.com/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/404-error-template-6.png" alt="cover" />
-</div>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
+
+
+<div align="center">
+<img width="100%" height = "250px" src="https://colorlib.com/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/404-error-template-6.png" alt="cover" />
+</div>
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dhruvshah323.dhruvshah323)
 
