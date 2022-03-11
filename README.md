@@ -7,9 +7,15 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://colorlib.com/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/404-error-template-6.png" alt="cover" />
 </div>
-<br>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dhruvshah323.dhruvshah323)
+
+
+![GitHub stars](https://img.shields.io/github/stars/dhruvshah323/MyProjects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dhruvshah323/dhruvshah323?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dhruvshah323/dhruvshah323?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dhruvshah323?style=social)
 
 </p>
 <div size='20px'> Hi! My name is Dhruv Sah. Thank You for taking the time to view my GitHub Profile :smile: 
