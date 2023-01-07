@@ -26,7 +26,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Todo  List
+- 🔭 I’m currently working on Archer Bot
 
 - 🌱 I’m currently learning PYTHON / DJANGO  / HTML / CSS / JAVASCRIPT /  
 
