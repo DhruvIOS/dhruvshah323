@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/DhruvIOS.https://github.com/DhruvIOS)
+![](https://api.visitorbadge.io/api/VisitorHit?user=DhruvIOS&repo=github-visitors-badge&countColor=6d00ff)
 
 </p>
 <div size='20px'> Hi! My name is Dhruv Shah. Thank You for taking the time to view my GitHub Profile :smile: 
